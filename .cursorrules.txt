@@ -1,0 +1,6 @@
+
+Organize documentation by service (e.g., ecommerce/, ai-services/, pharmacy-automation/).
+Use Markdown format for all documents.
+Update related documentation whenever features are added or changed.
+Include diagrams or flowcharts if possible for complex logic.
+Keep changelogs and version history for major features.
